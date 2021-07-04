@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+
+    nginx:
+        build:
+            context: ./docker/nginx
+        container_name: nginx_welcome
+        ports:
+            - 80:80
+        volumes:
+            - ./html:/var/www/html:cached
