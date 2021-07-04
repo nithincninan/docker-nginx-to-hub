@@ -2,6 +2,20 @@
 
 **Docker - Welcome Image(Nginx)**
 
+  File Structure:
+
+```  
+  ├── CHANGELOG.md
+  ├── README.md
+  ├── docker
+  │   └── nginx
+  │       ├── Dockerfile
+  │       └── default.conf
+  ├── docker-compose.yml
+  └── html
+      └── index.html
+```
+
   Push docker image(nginx) to docker hub:
   
   1. Clone the files.
@@ -56,4 +70,7 @@
     764055ebc9a7: Mounted from library/nginx
     latest: digest: sha256:XXXXXXXXXXXXXXXXXXXXXdd83cd1b6a907081b85c53 size: 2403
 ```  
+
+<img width="1680" alt="nginx-localhost" src="https://user-images.githubusercontent.com/2525741/124376899-bbf59000-dcc6-11eb-9be4-6150fcac044a.png">
+
     
