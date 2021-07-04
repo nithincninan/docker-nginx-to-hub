@@ -71,6 +71,12 @@
     latest: digest: sha256:XXXXXXXXXXXXXXXXXXXXXdd83cd1b6a907081b85c53 size: 2403
 ```  
 
+Docker Hub:
+
+<img width="933" alt="Screenshot 2021-07-04 at 12 56 34 PM" src="https://user-images.githubusercontent.com/2525741/124377153-1fcc8880-dcc8-11eb-9f6a-dcf21f86594e.png">
+
+Output:
+
 <img width="1680" alt="nginx-localhost" src="https://user-images.githubusercontent.com/2525741/124376899-bbf59000-dcc6-11eb-9be4-6150fcac044a.png">
 
-    
+
