@@ -1,4 +1,4 @@
-#  Push (nginx)image to docker hub
+#  Push ( nginx ) image to docker hub
 
 **Docker - Welcome Image(Nginx)**
 
@@ -71,9 +71,11 @@
     latest: digest: sha256:XXXXXXXXXXXXXXXXXXXXXdd83cd1b6a907081b85c53 size: 2403
 ```  
 
+
 **Docker Hub:**
 
 <img width="933" alt="Screenshot 2021-07-04 at 12 56 34 PM" src="https://user-images.githubusercontent.com/2525741/124377153-1fcc8880-dcc8-11eb-9f6a-dcf21f86594e.png">
+
 
 **Output:**
 
