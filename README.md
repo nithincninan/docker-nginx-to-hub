@@ -1,4 +1,4 @@
-#  Push image to docker hub - docker : nginx-welcome
+#  Push (nginx)image to docker hub
 
 **Docker - Welcome Image(Nginx)**
 
@@ -42,7 +42,7 @@
     nithincninan/nginx-welcome-image             latest           926264f40cbc   18 minutes ago   185MB 
 ```  
      
-  5. Login with docker hub account):
+  5. Login with docker hub account:
 
 ```
     docker login
@@ -78,5 +78,3 @@
 **Output:**
 
 <img width="1680" alt="nginx-localhost" src="https://user-images.githubusercontent.com/2525741/124376899-bbf59000-dcc6-11eb-9be4-6150fcac044a.png">
-
-
