@@ -1,4 +1,4 @@
-#  Push image to docker hub - docker : nginx-welcome
+#  Push (nginx)image to docker hub
 
 **Docker - Welcome Image(Nginx)**
 
@@ -78,4 +78,3 @@
 **Output:**
 
 <img width="1680" alt="nginx-localhost" src="https://user-images.githubusercontent.com/2525741/124376899-bbf59000-dcc6-11eb-9be4-6150fcac044a.png">
-
