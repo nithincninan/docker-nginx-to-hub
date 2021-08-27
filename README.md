@@ -1,4 +1,4 @@
-#  Push ( nginx ) image to docker hub
+#  Push Docker ( nginx ) image to docker hub
 
 **Docker - Welcome Image(Nginx)**
 
